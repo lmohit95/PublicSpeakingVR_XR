@@ -557,3 +557,445 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 405.685865 seconds.
+  path: Assets/room.blend
+  artifactKey: Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/room.blend using Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd414b710080ebe7a74d8408b2f0e9523') in 8.870391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Models/room.blend
+  artifactKey: Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/room.blend using Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd414b710080ebe7a74d8408b2f0e9523') in 9.464511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 143.491499 seconds.
+  path: Assets/Prefabs/devotid/Microphone/Materials/Microphone.mat
+  artifactKey: Guid(508cc1cc9b787bb4686773e3210d09d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/devotid/Microphone/Materials/Microphone.mat using Guid(508cc1cc9b787bb4686773e3210d09d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '49d4c3c3af524c67a58abec2e011997a') in 0.608672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.450980 seconds.
+  path: Assets/Prefabs/devotid/Microphone/Textures/Ghost Pack SUBSTANCE_Microphone_AlbedoTransparency.bmp
+  artifactKey: Guid(180157651c31bad459f24ad0e70ba565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/devotid/Microphone/Textures/Ghost Pack SUBSTANCE_Microphone_AlbedoTransparency.bmp using Guid(180157651c31bad459f24ad0e70ba565) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '993fedd64be539da08914fe3f912e21b') in 1.354494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Prefabs/devotid/Microphone/Textures/Ghost Pack SUBSTANCE_Microphone_Normal.bmp
+  artifactKey: Guid(0f6eb1d9d4e64274aa4253c2432a6c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/devotid/Microphone/Textures/Ghost Pack SUBSTANCE_Microphone_Normal.bmp using Guid(0f6eb1d9d4e64274aa4253c2432a6c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '433ba7500bcabe6ac676548bc385f544') in 0.097279 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Prefabs/devotid/Microphone/Textures/Ghost Pack SUBSTANCE_Microphone_MetallicSmoothness.bmp
+  artifactKey: Guid(9a7bf75524edaa14f8a2572905cf9a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/devotid/Microphone/Textures/Ghost Pack SUBSTANCE_Microphone_MetallicSmoothness.bmp using Guid(9a7bf75524edaa14f8a2572905cf9a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'f08300a3ba3a51f308af6eb278e41023') in 0.125830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Prefabs/devotid/Microphone/Textures/Ghost Pack SUBSTANCE_Microphone_AO.bmp
+  artifactKey: Guid(dcf69da09bed0ee4a9e212e84db1a67a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/devotid/Microphone/Textures/Ghost Pack SUBSTANCE_Microphone_AO.bmp using Guid(dcf69da09bed0ee4a9e212e84db1a67a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '549629b863c2ad0fa14e702c8a2ba626') in 0.112068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 55.611668 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconcheckedoutlocaloverlay.png
+  artifactKey: Guid(bb1928aff4fd4cf44af1f629dc14ef9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconcheckedoutlocaloverlay.png using Guid(bb1928aff4fd4cf44af1f629dc14ef9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'c9892d47eb515161c8336a08dfb1e79a') in 1.166517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconconflicted@2x.png
+  artifactKey: Guid(65f0e363b74cf5845ab8c3fbc14f39ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconconflicted@2x.png using Guid(65f0e363b74cf5845ab8c3fbc14f39ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '0b34682994b4967ea3129f00b9dc613f') in 0.054218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconclosebutton.png
+  artifactKey: Guid(9cadde7a0d5f9024ab3f2cd5f6a740d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconclosebutton.png using Guid(9cadde7a0d5f9024ab3f2cd5f6a740d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '022c3bece8481b973b2734d3aa097fbf') in 0.041230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconcheckedoutlocaloverlay@2x.png
+  artifactKey: Guid(3999034958d54364da380a8839a11050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconcheckedoutlocaloverlay@2x.png using Guid(3999034958d54364da380a8839a11050) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'c9d6621c2e686002ce43bd863fbd3d40') in 0.053450 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconconflicted.png
+  artifactKey: Guid(881798b77426a8f47b533dcc4767e9e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconconflicted.png using Guid(881798b77426a8f47b533dcc4767e9e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'f1246d77b3e75755553179bd25efe89f') in 0.031507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconconflictresolvedoverlay.png
+  artifactKey: Guid(056ee72c467a4e24d87541d42839ca72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconconflictresolvedoverlay.png using Guid(056ee72c467a4e24d87541d42839ca72) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '518600ce347621a45caa0e6430592265') in 0.056256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconcheckedoutlocaloverlay.png
+  artifactKey: Guid(4bd47f86a00dd2b4b8ab20a11de165f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconcheckedoutlocaloverlay.png using Guid(4bd47f86a00dd2b4b8ab20a11de165f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '66cb968d0e30e2852ffef83a77bdf7d3') in 0.046378 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconconflictedoverlay.png
+  artifactKey: Guid(d25a8ffe41f199d4c8f355d2de2d19e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconconflictedoverlay.png using Guid(d25a8ffe41f199d4c8f355d2de2d19e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'f97475c18374c02b9080d916e827cce0') in 0.051028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconconflictresolvedoverlay@2x.png
+  artifactKey: Guid(4a231ba0e81e63849a8f985c228e8acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconconflictresolvedoverlay@2x.png using Guid(4a231ba0e81e63849a8f985c228e8acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '3006a1d5166e1321077706b56954f01d') in 0.053150 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconclosebutton.png
+  artifactKey: Guid(13527793884104b46b7446fd7464c3ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconclosebutton.png using Guid(13527793884104b46b7446fd7464c3ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '9de3474f5dd14c845475ba8c2a89beb9') in 0.054415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconcheckedoutlocaloverlay@2x.png
+  artifactKey: Guid(8d98ab6168c3e91439339f1908b8fe97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconcheckedoutlocaloverlay@2x.png using Guid(8d98ab6168c3e91439339f1908b8fe97) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '69e63cf81cbe341f956209d7f1e92612') in 0.056687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconclosebutton@2x.png
+  artifactKey: Guid(0525793900d728a42936791a8a6de63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconclosebutton@2x.png using Guid(0525793900d728a42936791a8a6de63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '91b3be23c385917f1759f0f8f22e18c0') in 0.064137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconconflictedoverlay.png
+  artifactKey: Guid(a892bcc7ae1871447926b3c44d158763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconconflictedoverlay.png using Guid(a892bcc7ae1871447926b3c44d158763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'a233e10a4551da3f6cd2a13ed0a76cab') in 0.070237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconchanged.png
+  artifactKey: Guid(6719b9ff26333564181b5328d934035c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconchanged.png using Guid(6719b9ff26333564181b5328d934035c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '8483a9600f83f0eb7545447e4b4424a3') in 0.050714 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconconflicted.png
+  artifactKey: Guid(d1c88f142eee55b4eb2b2cfd7b3624ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconconflicted.png using Guid(d1c88f142eee55b4eb2b2cfd7b3624ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '007a54fd080c56d25d9d3fccd49c257b') in 0.063694 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconconflictedoverlay@2x.png
+  artifactKey: Guid(a3ced8f7044b9de4787602a9e9b20ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconconflictedoverlay@2x.png using Guid(a3ced8f7044b9de4787602a9e9b20ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: 'cd378980ef612eaf5933c8b10b404caf') in 0.050225 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconconflicted@2x.png
+  artifactKey: Guid(f95f697d66d238446b1ab717def09945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconconflicted@2x.png using Guid(f95f697d66d238446b1ab717def09945) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+ -> (artifact id: '4e8d6739d67338aca4cae1bd6ff5e4c4') in 0.056690 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 243.181799 seconds.
+  path: Assets/room_final.blend
+  artifactKey: Guid(c9c9902adb03b4264926c7d870469fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/room_final.blend using Guid(c9c9902adb03b4264926c7d870469fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313442c11bf5f8837ce8a6f795cfdabf') in 6.084830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 74.540460 seconds.
+  path: Assets/Materials/blackout.mat
+  artifactKey: Guid(f8b76cf1d56e8444487e9cd188cde716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/blackout.mat using Guid(f8b76cf1d56e8444487e9cd188cde716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8391a5293bc9da129d082f686dad27a9') in 0.046671 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Materials/material.mat
+  artifactKey: Guid(066c019c5f92e4acc83b273387d1d93a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/material.mat using Guid(066c019c5f92e4acc83b273387d1d93a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a698cbd9b24c275f0b2a944fce28ad07') in 0.030413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Materials/Concrete1.mat
+  artifactKey: Guid(e67bb98cc4a714386a252e759e9a783c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Concrete1.mat using Guid(e67bb98cc4a714386a252e759e9a783c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6987b3c0762f792f0bceb9c6541f063e') in 0.031627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Materials/window.mat
+  artifactKey: Guid(946ae1accf91741e697ac952552a083f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/window.mat using Guid(946ae1accf91741e697ac952552a083f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96405ec5f89ce87024444a6ff5a4bd67') in 0.025719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Materials/Wood08-basecolor.mat
+  artifactKey: Guid(d298c669cc6634839819a6d6659659a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Wood08-basecolor.mat using Guid(d298c669cc6634839819a6d6659659a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20c9660f0df02da0f561a82844a5128e') in 0.052883 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000520 seconds.
+  path: Assets/Materials/Light.mat
+  artifactKey: Guid(5de62231e4a7b424e9f54ddd7873f939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Light.mat using Guid(5de62231e4a7b424e9f54ddd7873f939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cde955fff46b1546d3bc49112b8cf61a') in 0.052716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Materials/Plaster.mat
+  artifactKey: Guid(4f4e9113a13084fe2bf9187e7a1add24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Plaster.mat using Guid(4f4e9113a13084fe2bf9187e7a1add24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ecd449c915a4ea927c9540a9b2a3ddd') in 0.027038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Materials/WallPlaster.mat
+  artifactKey: Guid(0f228a724dd5245b0b95331da7204633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WallPlaster.mat using Guid(0f228a724dd5245b0b95331da7204633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd80bd0c8e0fcb09ab8bc28092a8b3b46') in 0.042892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Materials/Concrete.mat
+  artifactKey: Guid(09d904712a7ec44b28862ed2a6bae21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Concrete.mat using Guid(09d904712a7ec44b28862ed2a6bae21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8edb7187aea8a39869cde1464c11f5f2') in 0.057221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.471876 seconds.
+  path: Assets/Models/room.blend
+  artifactKey: Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/room.blend using Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487597be92d22dfc6daee185d25ce585') in 5.470419 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 121.923798 seconds.
+  path: Assets/Materials/blackout 1.mat
+  artifactKey: Guid(91dd94cadfbcd4926939e95130594deb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/blackout 1.mat using Guid(91dd94cadfbcd4926939e95130594deb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1baa353e5695a18671b90f2890f0ced2') in 0.065410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Materials/Plaster 1.mat
+  artifactKey: Guid(ae2c1d77de2cb48cf9e81a1f675cbcc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Plaster 1.mat using Guid(ae2c1d77de2cb48cf9e81a1f675cbcc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a12bba7f1be3f593a03277bef85e54b') in 0.033337 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Materials/Concrete 1.mat
+  artifactKey: Guid(1d01c87337d16490096d7465523a25e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Concrete 1.mat using Guid(1d01c87337d16490096d7465523a25e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d635a97e10d5c78cbefa12d0bc65f08') in 0.052062 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Materials/window 1.mat
+  artifactKey: Guid(7d0fc1953764349f3b243cd507a2a70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/window 1.mat using Guid(7d0fc1953764349f3b243cd507a2a70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d6129aa53eaa77ae4cc80ce43436fe0') in 0.021141 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Materials/Wood08-basecolor 1.mat
+  artifactKey: Guid(6935522688dd2419492b787f4fb15900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Wood08-basecolor 1.mat using Guid(6935522688dd2419492b787f4fb15900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '537c1a414be6c42dae7c566ca94a77ab') in 0.040608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Materials/Concrete1 1.mat
+  artifactKey: Guid(ca86e0a26809342fe8be4daafaec518b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Concrete1 1.mat using Guid(ca86e0a26809342fe8be4daafaec518b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f151ed0f98448892a0ee784ce2ffa30') in 0.024984 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Materials/Light 1.mat
+  artifactKey: Guid(6872dfe84f6c542b49a8ef70da2abb24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Light 1.mat using Guid(6872dfe84f6c542b49a8ef70da2abb24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40affadf28204826de3569d9d768b7b2') in 0.020306 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Materials/WallPlaster 1.mat
+  artifactKey: Guid(a37dc1bef8dbb4d2599d7eaabe684b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WallPlaster 1.mat using Guid(a37dc1bef8dbb4d2599d7eaabe684b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b95aa8a56712abd58f3fb9ad3b97dcb') in 0.027192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001563 seconds.
+  path: Assets/Materials/material 1.mat
+  artifactKey: Guid(5ba22941068c84a5997771baa55dc791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/material 1.mat using Guid(5ba22941068c84a5997771baa55dc791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e69a887317d072d785fd8a04e9142ac7') in 0.026734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 82.440274 seconds.
+  path: Assets/Models/room.blend
+  artifactKey: Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/room.blend using Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e317ec6ba6e0c3960a389023c6b0e6') in 9.326460 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.120841 seconds.
+  path: Assets/Models/room.blend
+  artifactKey: Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/room.blend using Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9ac3304400e5cb3f8bf6e9516864cbc') in 8.834147 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.123172 seconds.
+  path: Assets/Materials/Plaster 2.mat
+  artifactKey: Guid(d1e6a048c6717400a982f4166177cae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Plaster 2.mat using Guid(d1e6a048c6717400a982f4166177cae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd16f160f08cc309aec35663e25cdfe') in 0.064475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 78.527903 seconds.
+  path: Assets/Models/room.blend
+  artifactKey: Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/room.blend using Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c07d48b2cb5370d508cf37b497e30a') in 6.271085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.373759 seconds.
+  path: Assets/Models/room.blend
+  artifactKey: Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/room.blend using Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97e72717ec1ddb80e7d2c2b0bc75d71d') in 5.993181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 170.011277 seconds.
+  path: Assets/Materials/WallPlaster 2.mat
+  artifactKey: Guid(11fa17a595083475cb39b71b40ace9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WallPlaster 2.mat using Guid(11fa17a595083475cb39b71b40ace9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64ff2ba73aec29f1fda6b38bfabe2822') in 0.097164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.925005 seconds.
+  path: Assets/Models/room.blend
+  artifactKey: Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/room.blend using Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '754dfeb627c66c101bc00879ec28d57c') in 6.406001 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 622.480446 seconds.
+  path: Assets/Materials/blackout 1.mat
+  artifactKey: Guid(91dd94cadfbcd4926939e95130594deb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/blackout 1.mat using Guid(91dd94cadfbcd4926939e95130594deb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ad25faaa61dbcc4d67919d55755e0a') in 0.058911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/Materials/Plaster 1.mat
+  artifactKey: Guid(ae2c1d77de2cb48cf9e81a1f675cbcc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Plaster 1.mat using Guid(ae2c1d77de2cb48cf9e81a1f675cbcc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e52dcdaf42b8e1e1c79525e5c6d6e2') in 0.028503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Materials/WallPlaster 2.mat
+  artifactKey: Guid(11fa17a595083475cb39b71b40ace9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WallPlaster 2.mat using Guid(11fa17a595083475cb39b71b40ace9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3d3c82374e9aa1a1ba64e661239486') in 0.037918 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Materials/Concrete1 1.mat
+  artifactKey: Guid(ca86e0a26809342fe8be4daafaec518b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Concrete1 1.mat using Guid(ca86e0a26809342fe8be4daafaec518b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c0ce7b972330bba998d4cc6059b1a58') in 0.039884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.082572 seconds.
+  path: Assets/Models/room.blend
+  artifactKey: Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/room.blend using Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a19d249f6ed6f49fba7f8cb3a1e19444') in 6.366024 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.778766 seconds.
+  path: Assets/Models/room.blend
+  artifactKey: Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/room.blend using Guid(292b360a4285f4116a19e9be1837ae50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6ec5d96ad1bfdf2c23fe764f1cb9bdc') in 7.679397 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 93.862261 seconds.
+  path: Assets/Materials/Concrete1 1.mat
+  artifactKey: Guid(ca86e0a26809342fe8be4daafaec518b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Concrete1 1.mat using Guid(ca86e0a26809342fe8be4daafaec518b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '014d8d054ac92b64a1ff14c1206154ac') in 0.052064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Materials/WallPlaster 2.mat
+  artifactKey: Guid(11fa17a595083475cb39b71b40ace9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WallPlaster 2.mat using Guid(11fa17a595083475cb39b71b40ace9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49204fd967d82d48f1e4cdc58b41c4c9') in 0.026838 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Materials/WallPlaster 1.mat
+  artifactKey: Guid(a37dc1bef8dbb4d2599d7eaabe684b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WallPlaster 1.mat using Guid(a37dc1bef8dbb4d2599d7eaabe684b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2db1c881e27ebfb5ef2df7a99a28d751') in 0.028073 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013727 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/mohitloganathan/mohit/PublicSpeakingVR_XR/My project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/mohitloganathan/mohit/PublicSpeakingVR_XR/My project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 3.03 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.79 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.227 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4235ms)
+		BeginReloadAssembly (836ms)
+			ExecutionOrderSort (1ms)
+			DisableScriptedObjects (19ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (341ms)
+		EndReloadAssembly (3096ms)
+			LoadAssemblies (642ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1024ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (204ms)
+			SetupLoadedEditorAssemblies (1218ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (60ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (5ms)
+				BeforeProcessingInitializeOnLoad (166ms)
+				ProcessInitializeOnLoadAttributes (904ms)
+				ProcessInitializeOnLoadMethodAttributes (74ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 11.53 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.47 ms.
+Unloading 3966 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (73.0 KB). Loaded Objects now: 4520.
+Memory consumption went from 341.5 MB to 341.5 MB.
+Total: 12.715376 ms (FindLiveObjects: 2.368001 ms CreateObjectMapping: 0.442270 ms MarkObjects: 9.675805 ms  DeleteObjects: 0.227242 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
